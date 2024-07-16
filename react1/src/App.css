@@ -1,0 +1,9 @@
+h1 {
+  color: green;
+  text-decoration: line-through;
+}
+.text {
+  text-decoration: initial;
+  color: orange;
+  text-transform: lowercase;
+}
